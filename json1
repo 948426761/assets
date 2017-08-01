@@ -229,6 +229,6 @@
             }
         }
     ],
-    "randomStart": true,
-    "searchYtb": true
+    "randomStart": false,
+    "searchYtb": false
 }

@@ -1,17 +1,17 @@
 {
-    "Facebook": 3000,
+    "Facebook": 4000,
     "Facebook1": 10000,
     "Facebook2": 8000,
-    "WhatsApp": 3000,
+    "WhatsApp": 4000,
     "WhatsApp1": 10000,
     "WhatsApp2": 8000,
     "BBM": 4000,
     "BBM1": 10000,
     "BBM2": 8000,
-    "Messenger": 3000,
+    "Messenger": 4000,
     "Messenger1": 10000,
     "Messenger2": 8000,
-    "Line": 3000,
+    "Line": 4000,
     "Line1": 10000,
     "Line2": 8000
 }
